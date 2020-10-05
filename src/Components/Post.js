@@ -21,7 +21,7 @@ const Post = ({ profilePic, message, timeStamp, imgName, userName }) => {
 
             <div className="post__bottom">
                 <p> {message} </p>
-                {/* Image section later */}
+                <img src={imgName} />
             </div>
 
             <div className="post__options">

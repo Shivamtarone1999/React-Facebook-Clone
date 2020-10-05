@@ -1,0 +1,15 @@
+.contact__list {
+  display: flex;
+  align-content: center;
+  align-items: center;
+}
+
+.contact__list > img {
+  width: 45px;
+  border-radius: 50%;
+}
+
+.contact__list > p {
+  margin-left: 12px;
+  font-weight: 600;
+}

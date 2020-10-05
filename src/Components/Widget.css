@@ -1,0 +1,85 @@
+.widget {
+  flex: 0.3;
+}
+
+.widget__top {
+  padding: 4px;
+}
+
+.widget__top > h3 {
+  color: #696969;
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.widget__birth > gift {
+  background-color: #0099ff !important;
+}
+
+.widget__birth > p {
+  margin-left: 12px;
+}
+
+.widget__birth > h3 {
+  color: #696969;
+  font-weight: 600;
+  font-size: 17px;
+  top: 0;
+}
+
+.widget__birth_content {
+  display: flex;
+  align-items: center;
+}
+
+.contact__options {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+}
+
+.contact__options > h3 {
+  color: #696969;
+  font-weight: 600;
+  font-size: 17px;
+  top: 0;
+}
+
+.contact__option {
+  margin: 1px;
+  align-items: center;
+  color: #696969;
+  justify-content: space-evenly;
+  padding: 5px;
+}
+
+.contact__option__icon {
+  margin: 8px;
+}
+
+.grp > h3 {
+  color: #696969;
+  font-weight: 600;
+  font-size: 17px;
+  top: 0;
+}
+
+.grp__conv {
+  display: flex;
+  align-items: center;
+}
+.grp__conv > p {
+  margin-left: 12px;
+  font-weight: 600;
+}
+
+.add_grp {
+  display: flex;
+  align-items: center;
+}
+
+.add_grp > p {
+  margin-left: 12px;
+  font-weight: 600;
+}
